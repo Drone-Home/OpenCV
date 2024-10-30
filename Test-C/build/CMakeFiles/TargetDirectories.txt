@@ -1,0 +1,3 @@
+C:/Users/OIS039/Docs/CEN3907C/Capstone-Project/OpenCV/Test/build/CMakeFiles/OpenCVExample.dir
+C:/Users/OIS039/Docs/CEN3907C/Capstone-Project/OpenCV/Test/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/OIS039/Docs/CEN3907C/Capstone-Project/OpenCV/Test/build/CMakeFiles/ZERO_CHECK.dir

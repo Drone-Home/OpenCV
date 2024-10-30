@@ -1,0 +1,10 @@
+^C:\USERS\OIS039\DOCS\CEN3907C\CAPSTONE-PROJECT\OPENCV\TEST\BUILD\CMAKEFILES\A4BF24FD83C1E9A8B9124811585E48F9\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/OIS039/Docs/CEN3907C/Capstone-Project/OpenCV/Test -BC:/Users/OIS039/Docs/CEN3907C/Capstone-Project/OpenCV/Test/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/OIS039/Docs/CEN3907C/Capstone-Project/OpenCV/Test/build/OpenCVExample.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
