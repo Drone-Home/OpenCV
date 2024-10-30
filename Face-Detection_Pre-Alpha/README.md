@@ -15,10 +15,9 @@ person.
 Then run the face_recognize.py file, and it should work as intended and 
 will be able to differentiate between different people.
 
-
-
-
-
+Press the esc key in order to stop the program. Otherwise, if you close the
+window, a new window will pop up and the program will continue to run until
+you press the esc key.
 
 
 
