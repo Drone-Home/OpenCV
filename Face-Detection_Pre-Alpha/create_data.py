@@ -12,7 +12,11 @@ datasets = 'datasets'
 # These are sub data sets of folder, 
 # for my faces I've used my name you can 
 # change the label here 
-sub_data = 'noah'	
+sub_data = 'noah'
+
+# Check and create the datasets folder if it does not exist
+if not os.path.isdir(datasets): 
+    os.mkdir(datasets)
 
 path = os.path.join(datasets, sub_data) 
 if not os.path.isdir(path): 

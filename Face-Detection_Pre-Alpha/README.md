@@ -19,5 +19,9 @@ Press the esc key in order to stop the program. Otherwise, if you close the
 window, a new window will pop up and the program will continue to run until
 you press the esc key.
 
+### NOTE
+In order for the files to run properly using VS Code, you must have the
+folder containing this README.md file as the folder that is open in VS Code.
+
 
 

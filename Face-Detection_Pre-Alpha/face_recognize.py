@@ -4,6 +4,9 @@ size = 4
 haar_file = 'haarcascade_frontalface_default.xml'
 datasets = 'datasets'
 
+# Checking OpenCV version
+print(cv2.__version__)
+
 # Part 1: Create fisherRecognizer 
 print('Recognizing Face Please Be in sufficient Lights...') 
 
