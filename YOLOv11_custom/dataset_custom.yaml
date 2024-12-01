@@ -1,0 +1,6 @@
+train: C:\Users\OIS039\Docs\CEN3907C\Capstone-Project\OpenCV\YOLOv11_custom\train
+val: C:\Users\OIS039\Docs\CEN3907C\Capstone-Project\OpenCV\YOLOv11_custom\val
+
+nc: 1
+
+names: ["BlueSponge"]
