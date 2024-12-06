@@ -1,5 +1,7 @@
-train: C:\Users\OIS039\Docs\CEN3907C\Capstone-Project\OpenCV\YOLOv11_custom\train
-val: C:\Users\OIS039\Docs\CEN3907C\Capstone-Project\OpenCV\YOLOv11_custom\val
+#train: C:\Users\OIS039\Docs\CEN3907C\Capstone-Project\OpenCV\YOLOv11_custom\train
+#val: C:\Users\OIS039\Docs\CEN3907C\Capstone-Project\OpenCV\YOLOv11_custom\val
+train: /content/drive/MyDrive/YOLOv11_custom/train
+val: /content/drive/MyDrive/YOLOv11_custom/val
 
 nc: 1
 
