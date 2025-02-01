@@ -14,7 +14,7 @@ Conda Environment Method (assumes you have anaconda installed already)
 
 Windows Command Prompt Method
 - If not already installed, use pip install in windows command prompt to install ultralytics with "pip install ultralytics --user"
-- Run "python test1.py" from the command line.
+- From the YOLOv11_drone directory, run "python test1.py" from the command line.
 - A window should open displaying your built-in webcam performing drone object detection.
 - To close the window, press 'q'
 
