@@ -1,0 +1,1 @@
+You'd put video in this folder that you may want to use for testing.
