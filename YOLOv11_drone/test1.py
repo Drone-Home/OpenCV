@@ -64,7 +64,7 @@ def distance_calc(results):
 
 # MAIN START
 model = YOLO('model-drone1.pt')
-cap = cv2.VideoCapture(1, cv2.CAP_DSHOW)
+cap = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 
 # Create a folder to store detections if it doesn't exist
 output_folder = "drone_detections"
