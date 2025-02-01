@@ -1,5 +1,8 @@
 # OpenCV
-### YOLOv11 Model Test
+### YOLOv11 Model Test on Drone
+- COMING SOON!
+
+### YOLOv11 Model Test on Sponge
 Dependency Requirements
 - If not already installed, use pip install in windows command prompt to install ultralytics with "pip install ultralytics --user"
 
@@ -14,5 +17,5 @@ Face-Detection_Pre-Alpha folder and follow the instructions in
 the README file in there.
 
 ### Known Bugs
-
+- Within the test1.py file within the YOLOv11_drone directory, there is a bug with the distance_calc() function. So, use of that function has been commented out throughout the rest of the file.
 
