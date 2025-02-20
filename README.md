@@ -19,6 +19,7 @@ Windows Command Prompt Method
 - To close the window, press 'q'
 
 NOTE:
+- Running test1.py will automatically save images of detected objects to a folder named drone_detections. The folder will be created if it does not already exist.
 - The 1st time you run "python test1.py" using either of the above methods, it may take a couple minutes for the camera feed to start being displayed. However in subsequent runs, it should only take a few seconds for the camera feed to appear, depending on what hardware it is being run on.
 - The frame rate displayed in the camera feed is a result of what hardware the model is being run on.
 
