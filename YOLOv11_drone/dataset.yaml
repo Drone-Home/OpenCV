@@ -1,0 +1,18 @@
+train: "/content/drive/Othercomputers/Yoga7/Documents/CEN3907C/Capstone-Project/OpenCV/YOLOv11_drone/train"
+val: "/content/drive/Othercomputers/Yoga7/Documents/CEN3907C/Capstone-Project/OpenCV/YOLOv11_drone/val"
+
+nc: 1
+
+names: ["Drone"]
+
+# Maybe take out augmentations, idk
+augment: True
+hsv_h: 0.015
+hsv_s: 0.7
+hsv_v: 0.4
+translate: 0.1
+scale: 0.5
+flipud: 0.0
+fliplr: 0.5
+mosaic: 1.0
+mixup: 0.2
